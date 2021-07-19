@@ -21,6 +21,7 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "task6", "..\..\..\Desktop\t
 		Release.AspNetCompiler.FixedNames = "false"
 		Release.AspNetCompiler.Debug = "False"
 		VWDPort = "58720"
+		SlnRelativePath = "..\..\..\Desktop\test\task6\"
 	EndProjectSection
 EndProject
 Global
