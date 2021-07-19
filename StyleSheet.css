@@ -1,0 +1,52 @@
+﻿body {
+}
+
+/*select {
+    width: 150px;
+    height: 20px;
+    background-color: white;
+}*/
+
+#btn_1 {
+    width: 150px;
+    height: 20px;
+}
+
+.field {
+    margin: 0.5% auto;
+}
+
+.btns {
+    width: 30px;
+    height: 30px;
+}
+
+table {
+    border: 1px;
+    border-collapse: collapse;
+    width : 100px;
+}
+
+td, th {
+    border: 1px solid grey;
+    text-align: center;
+    vertical-align: central;
+}
+
+#output {
+    background: black;
+    color: white;
+
+}
+
+.trueResult {
+    background: green;
+    color: black;
+   
+}
+
+.falseResult {
+    background: red;
+    color: black;
+   
+}
